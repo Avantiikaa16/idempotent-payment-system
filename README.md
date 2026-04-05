@@ -112,7 +112,9 @@ Virtual Environment tool (venv)
 
 ### Clone the repository
 
-git clone [https://github.com/yourusername/idempotent-payments.git](https://github.com/Avantiikaa16/idempotent-payment-system.git) cd idempotent-payments
+git clone https://github.com/Avantiikaa16/idempotent-payment-system.git
+
+cd idempotent-payment-system
 
 ### Create and activate virtual environment
 
